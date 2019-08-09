@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class HelloWorld {
+	//sout
     private String message;
 
     public void setMessage(String message){
